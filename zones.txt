@@ -1,0 +1,13 @@
+google.com    A      216.58.206.142
+facebook.com  A      31.13.71.36
+walla.co.il   A      54.171.127.39
+rambler.ru    A      81.19.81.8	
+youtube.com   A      216.58.205.238	
+
+
+
+
+	
+	
+	
+
