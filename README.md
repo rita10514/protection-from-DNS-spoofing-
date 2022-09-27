@@ -1,4 +1,4 @@
-DNS spoofing using IOT's
+Protection from DNS spoofing using IOT's
 ==============
 Our idea is to create a new DNS infrastructure that could work in a full synthesis with the existing one. 
 This system will provide a higher verification ability without changing the existing DNS hierarchy and the 
